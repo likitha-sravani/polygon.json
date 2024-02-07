@@ -1,0 +1,79 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a multi-chain scaling solution for Ethereum.",
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork/"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/polygon",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community/"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/polygon/"
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/polygon/matic-usd"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/MATIC-USD"
+        },
+        {
+            "name": "Polygon Explorer",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Polygon on Etherscan",
+            "url": "https://etherscan.io/token/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+        },
+        {
+            "name": "Polygon Bridge",
+            "url": "https://wallet.matic.network/bridge/"
+        },
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.polygon.technology/"
+        },
+        {
+            "name": "Polygon on Twitter",
+            "url": "https://twitter.com/0xPolygon"
+        },
+        {
+            "name": "Polygon Developers Documentation",
+            "url": "https://docs.polygon.technology/"
+        },
+        {
+            "name": "Polygon Forum",
+            "url": "https://forum.polygon.technology/"
+        }
+    ]
+}
